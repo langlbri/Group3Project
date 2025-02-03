@@ -14,7 +14,8 @@ import java.util.Collections;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 2020
- * @author langlbri - brittany langley 2025
+ * branch for review before master merge 
+ * @author group 3
  */
 public class GroupOfCards {
 
