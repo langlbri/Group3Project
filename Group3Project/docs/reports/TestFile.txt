@@ -1,1 +1,0 @@
-This is a test file. This folder is where text-files for the Card Game will be stored. 
