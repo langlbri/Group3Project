@@ -10,7 +10,6 @@ package ca.sheridancollege.project;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 2020
- * @author langlbri - brittany langley 2025
  */
 public abstract class Player {
 
